@@ -6,10 +6,10 @@ I'm primarily focused in Django and its REST framework but love TypeScript, Disc
 ## Projects
 - [Plane](https://github.com/KingWaffleIII/plane), a Discord bot to help RAF cadets with their RAFK (RAF Knowledge) and aircraft recognition.
 - [Chihayaburu](https://github.com/KingWaffleIII/chihayaburu), a Discord bot that automates HoYoLab Genshin Impact check-ins.
-- [Cashmoney](https://github.com/KingWaffleIII/cashmoney), a simple Django web-based job shift finance management app.
+- [Cashmoney](https://github.com/KingWaffleIII/cashmoney), a simple Django web-based job/shift finance management app.
 
 ### WIP
-- ???, a Discord roleplay bot that simulates (civil) war between different parties.
+- ???, a Discord roleplay bot that simulates international war between different factions.
 - ???, a mobile app, powered by Tauri, that listens for and recognises any playing surahs in the background (like Shazam).
 - [Kommander](https://github.com/KingWaffleIII/kommander), a Django web-based SSH and proprietary remote access server/client.
 
