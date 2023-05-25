@@ -1,6 +1,6 @@
 ### Hi there!
 
-**I'm KingWaffleIII, a student who's interested in planes and web technologies.**
+**I'm KingWaffleIII, a student who's interested in web technologies and cryptography.**
 I'm primarily focused in Django and its REST framework but love TypeScript, Discord.JS and want to get into Rust.
 
 ## Projects
@@ -9,9 +9,14 @@ I'm primarily focused in Django and its REST framework but love TypeScript, Disc
 - [Cashmoney](https://github.com/KingWaffleIII/cashmoney), a simple Django web-based job/shift finance management app.
 
 ### WIP
-- ???, a Discord roleplay bot that simulates international war between different factions.
-- ???, a mobile app, powered by Tauri, that listens for and recognises any playing surahs in the background (like Shazam).
+- TIDMAS, a key-based cipher using maths.
+
+
+
 - [Kommander](https://github.com/KingWaffleIII/kommander), a Django web-based SSH and proprietary remote access server/client.
+- ???, a mobile app, powered by Tauri, that listens for and recognises any playing surahs in the background (like Shazam).
+
+
 
 ## Contact
 
