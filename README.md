@@ -10,16 +10,10 @@ I'm primarily focused in Django and its REST framework but love TypeScript, Disc
 
 ### WIP
 - TIDMAS, a key-based cipher using maths.
-
-
-
 - [Kommander](https://github.com/KingWaffleIII/kommander), a Django web-based SSH and proprietary remote access server/client.
 - ???, a mobile app, powered by Tauri, that listens for and recognises any playing surahs in the background (like Shazam).
 
-
-
 ## Contact
-
 Email: waffle@planetwaffle.net
 
 Discord: KingWaffleIII#9031
