@@ -1,6 +1,6 @@
 ### Hi there!
 
-**I'm KingWaffleIII, a student who's interested in planes, web technologies and cryptography.**
+**I'm KingWaffleIII, a student who's interested in aviation, web technologies and cryptography.**
 I'm primarily focused in Django and its REST framework but love TypeScript, Discord.JS and want to get into Rust.
 
 ## Projects
