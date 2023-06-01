@@ -1,7 +1,14 @@
 ### Hi there!
 
-**I'm KingWaffleIII, a student who's interested in aviation, web technologies and cryptography.**
-I'm primarily focused in Django and its REST framework but love TypeScript, Discord.JS and want to get into Rust.
+**I'm KingWaffleIII, a student who's interested in aviation, web technologies, Spigot plugin development and cryptography.**
+I'm primarily focused in Django and its REST framework, Spigot plugin development and Discord.JS, love TypeScript and want to learn Rust.
+
+### Languages:
+1. TypeScript
+2. Python
+3. Rust
+4. Java
+5. JavaScript
 
 ## Projects
 - [Plane](https://github.com/KingWaffleIII/plane), a Discord bot to help RAF cadets with their RAFK (RAF Knowledge) and aircraft recognition.
