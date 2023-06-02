@@ -1,14 +1,14 @@
 ### Hi there!
 
-**I'm KingWaffleIII, a student who's interested in aviation, web technologies, Spigot plugin development and cryptography.**
-I'm primarily focused in Django and its REST framework, Spigot plugin development and Discord.JS, love TypeScript and want to learn Rust.
+**I'm KingWaffleIII, a student who's interested in aviation, web technologies and Spigot plugin development.**
+I'm primarily focused in Django and its REST framework, Spigot plugin development and Discord.JS.
 
 ### Languages:
-1. TypeScript
+1. TypeScript (JavaScript)
 2. Python
 3. Rust
 4. Java
-5. JavaScript
+
 
 ## Projects
 - [Plane](https://github.com/KingWaffleIII/plane), a Discord bot to help RAF cadets with their RAFK (RAF Knowledge) and aircraft recognition.
@@ -17,7 +17,7 @@ I'm primarily focused in Django and its REST framework, Spigot plugin developmen
 
 ### WIP
 - TIDMAS, a key-based cipher using maths.
-- [Kommander](https://github.com/KingWaffleIII/kommander), a Django web-based SSH and proprietary remote access server/client.
+- Kommander, a Spigot plugin that allows for remote access for admins, via the web and Discord.
 - ???, a mobile app, powered by Tauri, that listens for and recognises any playing surahs in the background (like Shazam).
 
 ## Contact
