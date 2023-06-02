@@ -7,7 +7,7 @@ I'm primarily focused in Django and its REST framework, Spigot plugin developmen
 1. TypeScript (JavaScript)
 2. Python
 3. Rust
-4. Java
+4. Kotlin
 
 
 ## Projects
