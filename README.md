@@ -6,9 +6,8 @@ I'm primarily focused in Django and its REST framework, Spigot plugin developmen
 ### Languages:
 1. TypeScript (JavaScript)
 2. Python
-3. Rust
-4. Kotlin
-
+3. Kotlin
+4. Rust
 
 ## Projects
 - [Plane](https://github.com/KingWaffleIII/plane), a Discord bot to help RAF cadets with their RAFK (RAF Knowledge) and aircraft recognition.
