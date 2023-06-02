@@ -1,6 +1,6 @@
 ### Hi there!
 
-**I'm KingWaffleIII, a student who's interested in aviation, web technologies and Spigot plugin development.**
+**I'm KingWaffleIII, a student who's interested in aviation and web technologies.**
 I'm primarily focused in Django and its REST framework, Spigot plugin development and Discord.JS.
 
 ### Languages:
