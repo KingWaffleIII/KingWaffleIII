@@ -15,8 +15,8 @@ I'm primarily focused in Django and its REST framework, Spigot plugin developmen
 - [Cashmoney](https://github.com/KingWaffleIII/cashmoney), a simple Django web-based job/shift finance management app.
 
 ### WIP
-- TIDMAS, a key-based cipher using maths.
 - Kommander, a Spigot plugin that allows for remote access for admins, via the web and Discord.
+- TIDMAS, a key-based cipher using maths.
 - ???, a mobile app, powered by Tauri, that listens for and recognises any playing surahs in the background (like Shazam).
 
 ## Contact
