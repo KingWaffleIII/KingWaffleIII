@@ -22,4 +22,4 @@ I'm primarily focused in Django and its REST framework, Spigot plugin developmen
 ## Contact
 Email: waffle@planetwaffle.net
 
-Discord: KingWaffleIII#9031
+Discord: kingwaffleiii
