@@ -9,6 +9,13 @@ I'm primarily focused in Django and its REST framework, Spigot plugin developmen
 3. Kotlin
 4. Rust
 
+### Frameworks/APIs:
+1. Django/Django REST Framework
+2. Discord.JS
+3. Spigot API
+4. Spring
+5. Tauri
+
 ## Projects
 - [Plane](https://github.com/KingWaffleIII/plane), a Discord bot to help RAF cadets with their RAFK (RAF Knowledge) and aircraft recognition.
 - [Chihayaburu](https://github.com/KingWaffleIII/chihayaburu), a Discord bot that automates HoYoLab Genshin Impact check-ins.
