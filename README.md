@@ -18,8 +18,6 @@ I'm primarily focused on Django and its REST framework, Spigot plugin developmen
 
 ## Projects
 - [Plane](https://github.com/KingWaffleIII/plane), a Discord bot to help RAF cadets with their RAFK (RAF Knowledge) and aircraft recognition.
-- [Chihayaburu](https://github.com/KingWaffleIII/chihayaburu), a Discord bot that automates HoYoLab Genshin Impact check-ins.
-- [Cashmoney](https://github.com/KingWaffleIII/cashmoney), a simple Django web-based job/shift finance management app.
 
 ### WIP
 - Kommander, a Spigot plugin that allows for remote access for admins, via the web and Discord.
