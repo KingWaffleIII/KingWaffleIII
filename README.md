@@ -1,7 +1,7 @@
 ### Hi there!
 
 **I'm KingWaffleIII, a student who's interested in aviation and web technologies.**
-I'm primarily focused in Django and its REST framework, Spigot plugin development and Discord.JS.
+I'm primarily focused on Django and its REST framework, Spigot plugin development and Discord.JS.
 
 ### Languages:
 1. TypeScript (JavaScript)
@@ -23,8 +23,6 @@ I'm primarily focused in Django and its REST framework, Spigot plugin developmen
 
 ### WIP
 - Kommander, a Spigot plugin that allows for remote access for admins, via the web and Discord.
-- TIDMAS, a key-based cipher using maths.
-- ???, a mobile app, powered by Tauri, that listens for and recognises any playing surahs in the background (like Shazam).
 
 ## Contact
 Email: waffle@planetwaffle.net
