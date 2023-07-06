@@ -4,8 +4,8 @@
 I'm primarily focused on Django and its REST framework, Spigot plugin development and Discord.JS.
 
 ### Languages:
-1. TypeScript (JavaScript)
-2. Python
+1. Python
+2. TypeScript (JavaScript)
 3. Kotlin
 4. Rust
 
@@ -20,6 +20,7 @@ I'm primarily focused on Django and its REST framework, Spigot plugin developmen
 - [Plane](https://github.com/KingWaffleIII/plane), a Discord bot to help RAF cadets with their RAFK (RAF Knowledge) and aircraft recognition.
 
 ### WIP
+- VoiceKommander, a Python program that executes keybinds with voice commands.
 - Kommander, a Spigot plugin that allows for remote access for admins, via the web and Discord.
 
 ## Contact
