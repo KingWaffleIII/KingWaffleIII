@@ -15,6 +15,7 @@ I'm primarily focused on Django and its REST framework and Discord.JS.
 
 ## Projects
 - [Plane](https://github.com/KingWaffleIII/plane), a Discord bot to help RAF cadets with their RAFK (RAF Knowledge) and aircraft recognition.
+- [Chihayaburu](https://github.com/KingWaffleIII/chihayaburu), a Discord bot that automates HoYoLab check-ins for HoYoVerse games (Genshin Impact and Honkai Star Rail).
 
 ### WIP
 - VoiceKommander, a Rust program that executes key binds with voice commands.
