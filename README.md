@@ -1,25 +1,29 @@
 ### Hi there!
 
-**I'm KingWaffleIII, a student who's interested in aviation and web technologies.**
-I'm primarily focused on Django and its REST framework and Discord.JS.
+**I'm KingWaffleIII, a student who's interested in aviation and full stack web technologies.**
 
 ### Languages:
 1. Python
 2. TypeScript (JavaScript)
 3. Rust
+4. Kotlin
 
 ### Frameworks/APIs:
-1. Django/Django REST Framework
+1. Django (REST Framework)
 2. Discord.JS
-4. Tauri
+3. React
+4. TailwindCSS
+5. Tauri
+6. Spigot API
 
 ## Projects
-- [Plane](https://github.com/KingWaffleIII/Plane), a Discord bot to help RAF cadets with their RAFK (RAF Knowledge) and aircraft recognition.
-- [Chihayaburu](https://github.com/KingWaffleIII/Chihayaburu), a Discord bot that automates HoYoLab check-ins for HoYoVerse games (Genshin Impact and Honkai Star Rail).
+- **[Plane](https://github.com/KingWaffleIII/Plane)**, a Discord bot to help RAF cadets with their RAFK (RAF Knowledge) and aircraft recognition.
+- **[Chihayaburu](https://github.com/KingWaffleIII/Chihayaburu)**, a Discord bot that automates HoYoLab check-ins for HoYoVerse games (Genshin Impact and Honkai Star Rail).
 
 ### WIP
-- VoiceKommander, a Rust program that executes key binds with voice commands.
-- Kommander, a Rust program that allows for remote access for admins, via the web and Discord.
+- **Kommander**, a Spigot plugin that allows for retrieving data and remote command execution for admins and users, via Discord and the web.
+- **?**, a Rust program executes keybinds using your voice, with Tauri for UI.
+
 
 ## Contact
 Email: waffle@planetwaffle.net
