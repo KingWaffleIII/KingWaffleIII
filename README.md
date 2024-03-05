@@ -4,7 +4,7 @@
 
 ### Languages:
 1. Python
-2. JavaScript (+ JavaScript)
+2. JavaScript (+ TypeScript)
 3. Java (+ Kotlin)
 4. C++
 5. Rust
