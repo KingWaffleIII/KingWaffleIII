@@ -1,20 +1,13 @@
 ### Hi there!
 
-**I'm KingWaffleIII, a student who's interested in aviation and full stack web technologies.**
+**I'm KingWaffleIII, a student who's interested in aerospace software engineering.**
 
 ### Languages:
 1. Python
-2. TypeScript (JavaScript)
-3. Rust
-4. Kotlin
-
-### Frameworks/APIs:
-1. Django (REST Framework)
-2. Discord.JS
-3. React
-4. TailwindCSS
-5. Tauri
-6. Spigot API
+2. JavaScript (+ JavaScript)
+3. Java (+ Kotlin)
+4. C++
+5. Rust
 
 ## Projects
 - **[Plane](https://github.com/KingWaffleIII/Plane)**, a Discord bot to help RAF cadets with their RAFK (RAF Knowledge) and aircraft recognition.
