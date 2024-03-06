@@ -6,7 +6,6 @@
 1. Python
 2. JavaScript (+ TypeScript)
 3. C++
-4. Java (+ Kotlin)
 5. Rust
 
 ## Projects
@@ -15,7 +14,6 @@
 - **[MC-bot](https://github.com/KingWaffleIII/MC-bot)**, a Discord bot to interact with Minecraft servers using RCON.
 
 ### WIP
-- **Kommander**, a Spigot plugin that allows for retrieving data and remote command execution for admins and users, via Discord and the web.
 - **?**, a Rust program executes keybinds using your voice, with Tauri for UI.
 
 
