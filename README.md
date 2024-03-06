@@ -14,7 +14,7 @@
 - **[MC-bot](https://github.com/KingWaffleIII/MC-bot)**, a Discord bot to interact with Minecraft servers using RCON.
 
 ### WIP
-- **?**, a Rust program executes keybinds using your voice, with Tauri for UI.
+- **Kommander**, a Rust program executes keybinds using your voice, with Tauri for UI.
 
 
 ## Contact
