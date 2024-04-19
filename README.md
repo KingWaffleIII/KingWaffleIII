@@ -1,12 +1,12 @@
 ### Hi there!
 
-**I'm KingWaffleIII, a student who's interested in aerospace software engineering.**
+**I'm KingWaffleIII, a student interested in aerospace software engineering.**
 
 ### Languages:
 1. Python
-2. JavaScript (+ TypeScript)
-3. C++
-5. Rust
+2. C/C++
+3. Rust
+4. JavaScript (+ TypeScript)
 
 ## Projects
 - **[Plane](https://github.com/KingWaffleIII/Plane)**, a Discord bot to help RAF cadets with their RAFK (RAF Knowledge) and aircraft recognition.
@@ -15,6 +15,7 @@
 
 ### WIP
 - **Kommander**, a Rust program executes keybinds using your voice, with Tauri for UI.
+- A C++ text-based game engine with a Python port
 
 
 ## Contact
