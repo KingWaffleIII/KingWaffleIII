@@ -15,8 +15,8 @@
 
 ### WIP
 - **Kommander**, a Rust program executes keybinds using your voice, with Tauri for UI.
-- A C++ text-based game engine with a Python port
-
+- A C++ text-based game engine with a Python port.
+- A C++ chess engine.
 
 ## Contact
 Email: waffle@planetwaffle.net
