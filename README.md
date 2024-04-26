@@ -22,3 +22,7 @@
 Email: waffle@planetwaffle.net
 
 Discord: kingwaffleiii
+
+## [Donate](https://donate.stripe.com/9AQ29r8Wg21V5LWeUU)
+Any donations would mean so much!
+
