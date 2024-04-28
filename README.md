@@ -3,15 +3,14 @@
 **I'm KingWaffleIII, a student interested in aerospace software engineering.**
 
 ### Languages:
-1. Python
-2. C/C++
-3. Rust
-4. JavaScript (+ TypeScript)
+- Python
+- C/C++
+- Rust
+- JS/TS
 
 ## Projects
 - **[Plane](https://github.com/KingWaffleIII/Plane)**, a Discord bot to help RAF cadets with their RAFK (RAF Knowledge) and aircraft recognition.
-- **[Chihayaburu](https://github.com/KingWaffleIII/Chihayaburu)**, a Discord bot that automates HoYoLab check-ins for HoYoVerse games (Genshin Impact and Honkai Star Rail).
-- **[MC-bot](https://github.com/KingWaffleIII/MC-bot)**, a Discord bot to interact with Minecraft servers using RCON.
+- **[AntiProcrastinator](https://github.com/KingWaffleIII/AntiProcrastinator)**, a Python script that yells at you for doing things you shouldn't be.
 
 ### WIP
 - **Web-SSH**, a web-based SSH client using Django.
