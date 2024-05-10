@@ -13,7 +13,6 @@
 - **[AntiProcrastinator](https://github.com/KingWaffleIII/AntiProcrastinator)**, a Python script that yells at you for doing things you shouldn't be.
 
 ### WIP
-- **Web-SSH**, a web-based SSH client using Django.
 - **Kommander**, a Rust program executes keybinds using your voice.
 - A C++ text-based game engine.
 
