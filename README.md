@@ -16,7 +16,6 @@
 - **Web-SSH**, a web-based SSH client using Django.
 - **Kommander**, a Rust program executes keybinds using your voice.
 - A C++ text-based game engine.
-- A C++ chess engine.
 
 ## Contact
 Email: waffle@planetwaffle.net
