@@ -14,7 +14,7 @@
 
 ### WIP
 - **Web-SSH**, a web-based SSH client using Django.
-- **Kommander**, a Rust program executes keybinds using your voice, with Tauri for UI.
+- **Kommander**, a Rust program executes keybinds using your voice.
 - A C++ text-based game engine with a Python port.
 - A C++ chess engine.
 
