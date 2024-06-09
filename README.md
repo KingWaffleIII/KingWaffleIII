@@ -13,8 +13,9 @@
 - **[AntiProcrastinator](https://github.com/KingWaffleIII/AntiProcrastinator)**, a Python script that yells at you for doing things you shouldn't be.
 
 ### WIP
-- **Kommander**, a Rust program executes keybinds using your voice.
 - A C++ text-based game engine.
+- **Botuser**, a program that allows you to use a Discord bot like a normal user account.
+- **Kommander**, a Rust program executes keybinds using your voice.
 
 ## Contact
 Email: waffle@planetwaffle.net
