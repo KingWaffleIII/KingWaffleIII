@@ -10,6 +10,7 @@
 
 ## Projects
 - **[Plane](https://github.com/KingWaffleIII/Plane)**, a Discord bot to help RAF cadets with their RAFK (RAF Knowledge) and aircraft recognition.
+- **[Chihayaburu](https://github.com/KingWaffleIII/Chihayaburu)**, a Discord app that automates HoYoLab check-ins.
 - **[AntiProcrastinator](https://github.com/KingWaffleIII/AntiProcrastinator)**, a Python script that yells at you for doing things you shouldn't be.
 
 ### WIP
