@@ -15,8 +15,8 @@
 
 ### WIP
 - A C++ text-based game engine.
-- **Botuser**, a program that allows you to use a Discord bot like a normal user account.
-- **Kommander**, a Rust program executes keybinds using your voice.
+- **Dominion**
+- **Kommander**
 
 ## Contact
 Email: waffle@planetwaffle.net
