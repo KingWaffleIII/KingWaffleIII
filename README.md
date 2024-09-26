@@ -3,10 +3,12 @@
 **I'm KingWaffleIII, a student interested in aerospace software engineering.**
 
 ### Languages:
-- **Python**
-- **C/C++**
-- **Rust**
+- Python
 - JS/TS
+
+#### Learning
+- C/C++
+- Rust
 
 ## Contact
 Email: waffle@planetwaffle.net
