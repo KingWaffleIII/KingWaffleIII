@@ -1,6 +1,6 @@
 ### Hi there!
 
-**I'm KingWaffleIII, a student interested in aerospace software engineering.**
+**I'm KingWaffleIII, a student interested in aerospace engineering.**
 
 ### Languages:
 - Python
